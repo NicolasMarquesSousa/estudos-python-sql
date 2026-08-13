@@ -30,6 +30,12 @@ Este repositório documenta minha evolução prática em programação. Ele reú
 
 ## Projeto prático
 
+### Analisador de logs de segurança
+
+Aplicação em Python que processa registros de autenticação, contabiliza falhas por endereço IP e identifica possíveis ataques de força bruta considerando quantidade de tentativas e intervalo de tempo.
+
+[Ver projeto e instruções de uso](python/projetos/analisador-logs-seguranca/README.md)
+
 ### Gerenciador de tarefas no terminal
 
 Aplicação em Python que permite cadastrar, listar, concluir e remover tarefas. Os dados são salvos em JSON para permanecerem disponíveis entre execuções.
@@ -54,3 +60,4 @@ sql/        Exercícios e fundamentos de SQL
 ## Objetivo
 
 Preservar os exercícios desenvolvidos, demonstrar a evolução do aprendizado e transformar conceitos estudados em projetos funcionais.
+
