@@ -1,41 +1,56 @@
 # Estudos de Python e SQL
 
-Este repositório documenta minha evolução nos estudos de programação, com foco em Python e SQL. O conteúdo reúne exercícios que escrevi durante o aprendizado e um plano para orientar os próximos assuntos.
+Este repositório documenta minha evolução prática em programação. Ele reúne exercícios, anotações e projetos desenvolvidos durante meus estudos de Python e SQL.
+
+## Formação concluída
+
+- **Python - Santander Open Academy**
+- Conclusão: 13 de agosto de 2026
+- Carga horária: 8 horas
+- Conteúdo: 2 módulos e autoavaliação
+- [Visualizar certificado](docs/certificados/python-santander-open-academy.pdf)
 
 ## Conteúdo atual
 
 ### Python
 
-- Listas e seus principais métodos.
+- Listas, tuplas, dicionários e conjuntos.
 - List comprehensions.
-- Tuplas.
-- Dicionários.
-- Conjuntos e operações entre conjuntos.
+- Funções e organização de código.
+- Tratamento de exceções.
+- Entrada, saída, leitura e escrita de arquivos.
+- Uso dos módulos `datetime`, `math`, `pathlib` e `random`.
 
 ### SQL
 
-- Noções de modelagem conceitual, lógica e física.
-- Criação de banco de dados e tabelas.
-- Tipos de dados básicos.
-- Inserção de registros.
-- Consultas com `SELECT`.
+- Modelagem conceitual, lógica e física.
+- Criação de bancos de dados e tabelas.
+- Tipos de dados, inserção de registros e consultas com `SELECT`.
 - Alias, valores nulos e uso de `NOW()`.
 
-## Próximos estudos
+## Projeto prático
 
-Com base no plano de estudos presente no repositório, os próximos tópicos incluem:
+### Gerenciador de tarefas no terminal
 
-- Fundamentos adicionais de Python: variáveis, operadores, estruturas de controle e funções.
-- Programação orientada a objetos: classes, objetos, atributos, métodos, herança e polimorfismo.
-- Leitura e escrita de arquivos.
-- Bibliotecas como `math`, `datetime` e `random`.
-- Instalação e uso de pacotes com `pip`.
+Aplicação em Python que permite cadastrar, listar, concluir e remover tarefas. Os dados são salvos em JSON para permanecerem disponíveis entre execuções.
+
+[Ver projeto e instruções de uso](python/projetos/gerenciador-tarefas/README.md)
+
+## Estrutura
+
+```text
+docs/       Certificados e planos de estudo
+python/     Exercícios e projetos em Python
+sql/        Exercícios e fundamentos de SQL
+```
+
+## Próximos passos
+
+- Programação orientada a objetos.
 - Consumo de APIs com `requests`.
-- Banco de dados SQLite e operações CRUD.
-- Boas práticas com PEP 8.
-- Testes automatizados com `unittest`.
-- Fundamentos de Git e GitHub.
+- SQLite e operações CRUD.
+- Testes automatizados e boas práticas com PEP 8.
 
 ## Objetivo
 
-Registrar de forma organizada meu progresso, preservar os exercícios desenvolvidos durante os estudos e acompanhar a evolução do aprendizado ao longo do tempo.
+Preservar os exercícios desenvolvidos, demonstrar a evolução do aprendizado e transformar conceitos estudados em projetos funcionais.
