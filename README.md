@@ -28,19 +28,21 @@ Este repositório documenta minha evolução prática em programação. Ele reú
 - Tipos de dados, inserção de registros e consultas com `SELECT`.
 - Alias, valores nulos e uso de `NOW()`.
 
-## Projeto prático
+## Projetos desenvolvidos
 
 ### Analisador de logs de segurança
 
 Aplicação em Python que processa registros de autenticação, contabiliza falhas por endereço IP e identifica possíveis ataques de força bruta considerando quantidade de tentativas e intervalo de tempo.
 
-[Ver projeto e instruções de uso](python/projetos/analisador-logs-seguranca/README.md)
+[Ver repositório independente](https://github.com/NicolasMarquesSousa/security-log-analyzer)
 
 ### Gerenciador de tarefas no terminal
 
 Aplicação em Python que permite cadastrar, listar, concluir e remover tarefas. Os dados são salvos em JSON para permanecerem disponíveis entre execuções.
 
-[Ver projeto e instruções de uso](python/projetos/gerenciador-tarefas/README.md)
+[Ver repositório independente](https://github.com/NicolasMarquesSousa/python-task-manager)
+
+> As versões presentes neste repositório permanecem preservadas como parte do histórico de aprendizagem. As apresentações oficiais dos projetos estão nos repositórios independentes acima.
 
 ## Estrutura
 
