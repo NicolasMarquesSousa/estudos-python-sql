@@ -1,4 +1,14 @@
+![Capa do Laboratório de Python e SQL](docs/capa.svg)
+
+<div align="center">
+
 # Estudos de Python e SQL
+
+![Python](https://img.shields.io/badge/Python-Fundamentos_e_projetos-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Modelagem_e_consultas-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Aprendizado_contínuo-22C55E?style=flat-square)
+
+</div>
 
 Este repositório documenta minha evolução prática em programação. Ele reúne exercícios, anotações e projetos desenvolvidos durante meus estudos de Python e SQL.
 
@@ -8,7 +18,9 @@ Este repositório documenta minha evolução prática em programação. Ele reú
 - Conclusão: 13 de agosto de 2026
 - Carga horária: 8 horas
 - Conteúdo: 2 módulos e autoavaliação
-- [Visualizar certificado](docs/certificados/python-santander-open-academy.pdf)
+- [Visualizar o certificado oficial em PDF](docs/certificados/python-santander-open-academy.pdf)
+
+> A formação está documentada junto aos exercícios e projetos que demonstram a aplicação prática do conteúdo.
 
 ## Conteúdo atual
 
@@ -34,13 +46,13 @@ Este repositório documenta minha evolução prática em programação. Ele reú
 
 Aplicação em Python que processa registros de autenticação, contabiliza falhas por endereço IP e identifica possíveis ataques de força bruta considerando quantidade de tentativas e intervalo de tempo.
 
-[Ver repositório independente](https://github.com/NicolasMarquesSousa/security-log-analyzer)
+[Ver versão oficial e ativa](https://github.com/NicolasMarquesSousa/analisador-logs-seguranca)
 
 ### Gerenciador de tarefas no terminal
 
 Aplicação em Python que permite cadastrar, listar, concluir e remover tarefas. Os dados são salvos em JSON para permanecerem disponíveis entre execuções.
 
-[Ver repositório independente](https://github.com/NicolasMarquesSousa/python-task-manager)
+[Ver versão oficial e ativa](https://github.com/NicolasMarquesSousa/gerenciador-tarefas-python)
 
 > As versões presentes neste repositório permanecem preservadas como parte do histórico de aprendizagem. As apresentações oficiais dos projetos estão nos repositórios independentes acima.
 
@@ -62,4 +74,8 @@ sql/        Exercícios e fundamentos de SQL
 ## Objetivo
 
 Preservar os exercícios desenvolvidos, demonstrar a evolução do aprendizado e transformar conceitos estudados em projetos funcionais.
+
+---
+
+Desenvolvido por [Nicolas Marques](https://github.com/NicolasMarquesSousa) · [Ver portfólio](https://github.com/NicolasMarquesSousa)
 
